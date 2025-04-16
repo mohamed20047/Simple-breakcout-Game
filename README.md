@@ -4,7 +4,7 @@
 ---
 
 ![Gameplay Screenshot 1](./ScreenShots/Screenshot(2).png)  
-![Gameplay Screenshot 2](./screenshots/Screenshot(3).png)
+![Gameplay Screenshot 2](./Screenshots/Screenshot(3).png)
 
 ---
 
