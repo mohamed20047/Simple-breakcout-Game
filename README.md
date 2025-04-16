@@ -27,7 +27,6 @@
 ## 📦 Tech Bits
 - Unity + C#  
 - JSONUtility for save/load  
-- PlayerPrefs for storage
 
 ---
 
